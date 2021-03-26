@@ -51,7 +51,7 @@ featured: true
 # Links (optional).
 url_pdf: ""
 url_code: "https://github.com/anskarl/LoMRF"
-url_dataset: "OSLa_evaluation_data.zip"
+url_dataset: "datasets/OSLa_evaluation_data.zip"
 url_poster: "poster.pdf"
 url_project: ""
 url_slides: "slides.pdf"

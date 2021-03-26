@@ -50,7 +50,7 @@ featured: true
 # Links (optional).
 url_pdf: ""
 url_code: ""
-url_dataset: "splice_evaluation-20180205-18_17_25.tar.gz"
+url_dataset: "datasets/splice_evaluation-20180205-18_17_25.tar.gz"
 url_poster: ""
 url_project: ""
 url_slides: ""

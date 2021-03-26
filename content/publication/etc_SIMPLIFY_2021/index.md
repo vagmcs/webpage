@@ -51,7 +51,7 @@ featured: true
 # Links (optional).
 url_pdf: ""
 url_code: ""
-url_dataset: "datasets.zip"
+url_dataset: "datasets/datasets.zip"
 url_poster: ""
 url_project: ""
 url_slides: ""
