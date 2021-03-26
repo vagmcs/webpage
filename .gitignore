@@ -1,0 +1,13 @@
+# IDEs
+.idea/
+
+# Hugo
+hugo
+resources/
+public/
+assets/jsconfig.json
+node_modules/
+
+# Data
+*.zip
+*.tar.gz

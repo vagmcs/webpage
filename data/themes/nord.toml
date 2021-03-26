@@ -1,0 +1,30 @@
+# Theme metadata
+name = "Nord"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#8fbcbb"
+primary_light = "#ebcb8b"
+primary_dark = "#2e3440"
+
+# Menu
+menu_primary = "#2e3440"
+menu_text = "#eceff4"
+menu_text_active = "#ebcb8b"
+menu_title = "#eceff4"
+
+# Home sections
+background = "#2e3440"
+home_section_odd = "#2e3440"
+home_section_even = "#3b4252"
+
+[dark]
+  link = "#81a1c1"
+  link_hover = "#ebcb8b"
+
+  menu_primary = "#2e3440"
+  menu_text = "#eceff4"
+  menu_text_active = "#bf616a"
+  menu_title = "#b48ead"
