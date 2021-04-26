@@ -32,8 +32,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated version.
-publication: "In *Data Analytics and Machine Learning Made Simple*, Springer"
-publication_short: "In *SIMPLIFY*, Springer"
+publication: "In *Workshops of the EDBT/ICDT*"
+publication_short: "In *EDBT/ICDT Workshops*"
 
 # Abstract and optional shortened version.
 abstract: Early Time-Series Classification (ETSC) is the task of discerning the class of time-series observations, as accurately and fast as possible. Such approaches can be incorporated in forecasting, and this way assist on many research fields. However, available approaches are not suitable for all problems, since the shape and the nature of data can impact their performance. In the context of this work, we empirically evaluate five state-of-the-art ETSC algorithms on publicly available data, as well as on two newly introduced datasets, originating from the biological and maritime application areas. The first dataset refers to cancer simulation data, while the second consists of vessel geospatial information. The aim is to extensively evaluate ETSC algorithms, and provide intuition on how such approaches work, and what are the problem characteristics that may render each method successful. Also, the framework we used for the evaluation can serve as a benchmark for new related approaches.
