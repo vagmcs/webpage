@@ -1,5 +1,5 @@
 ---
-title: "Robust Semi-Supervised Structure Learning of Composite Event Rules"
+title: "Online Semi-Supervised Learning of Composite Event Rules Combining Structure and Mass-Based Predicate Similarity"
 slug: splice_plus
 draft: false
 
@@ -56,6 +56,10 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+
+links:
+- name: Appendix
+  url: "appendix.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
