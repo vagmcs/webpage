@@ -4,7 +4,6 @@
 # Hugo
 hugo
 resources/
-public/
 assets/jsconfig.json
 node_modules/
 
