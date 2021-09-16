@@ -1,6 +1,6 @@
 ---
 title: "Track&Know"
-summary: Big Data Mobility Tracking Knowledge Extraction in Urban Areas (**H2020**) [2019 - present].
+summary: Big Data Mobility Tracking Knowledge Extraction in Urban Areas (**H2020**) [2019 - 2021].
 tags:
 - Mobility Tracking
 - Fleet Management

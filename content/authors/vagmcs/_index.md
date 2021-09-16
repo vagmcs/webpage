@@ -16,11 +16,13 @@ organizations:
 # Short bio (displayed in user profile at the end of posts)
 bio: My research interests include artificial intelligence, machine learning and data mining.
 
-# Interests to show in the about widget
+# Interests to show in the About widget
 interests:
 - Artificial Intelligence
 - Machine Learning & Data Mining
-- Model Interpretability
+- Logical & Relational Learning
+- Online & Adaptive Learning
+- Complex Event Processing
 
 # Education to show in About widget
 education:
@@ -82,6 +84,6 @@ I work along the [CER Group](http://cer.iit.demokritos.gr) and I conduct researc
 
 I hold a Diploma and an M.Sc. from the school of [Electronics and Computer Engineering](https://www.ece.tuc.gr) at the [Technical University of Crete](https://www.tuc.gr). During my studies I worked along the [Kouretes](http://www.intelligence.tuc.gr/kouretes) [RoboCup](https://www.robocup.org) team where I completed my thesis "[Dynamic Multi-Robot Coordination for the RoboCup Standard Platform League](http://dias.library.tuc.gr/view/manf/16145)" under the supervision of [Michail G. Lagoudakis](http://www.intelligence.tuc.gr/~lagoudakis). In 2014 I joined the CER Group where I completed my master thesis "[Online Structure Learning for Markov Logic Networks using Background Knowledge Axiomatization](http://dias.library.tuc.gr/view/manf/64815)".
 
-Apart from my research, I am fascinated by programming languages, software engineering, linux and free software.
+Apart from my research, I am fascinated by programming languages, software engineering, unix and free software.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "" "newtab" >}}resumé{{< /staticref >}}.

@@ -43,4 +43,4 @@ design:
   flip_alt_rows: true
 ---
 
-I only develop [free](https://www.gnu.org/philosophy/free-sw.html) and open-source software.
+The [free](https://www.gnu.org/philosophy/free-sw.html) and open-source software I develop.
