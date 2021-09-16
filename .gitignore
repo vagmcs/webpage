@@ -11,3 +11,6 @@ node_modules/
 # Data
 *.zip
 *.tar.gz
+
+# macOS
+.DS_Store
