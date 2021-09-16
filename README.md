@@ -1,6 +1,6 @@
 # Personal Webpage
 
-![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fusers.iit.demokritos.gr%2F~vagmcs%2F)
+![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fvagmcs.github.io)
 
 ### Updating the Academic Template
 
