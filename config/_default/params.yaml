@@ -21,16 +21,15 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: vagmcs [at] iit [dot] demokritos [dot] gr
-phone: +30 210 6503215
+phone:
 address:
-  street: Patriarchou Grigoriou and Neapoleos St.
-  city: Athens
-  region: Aghia Paraskevi
-  postcode: 15310
-  country: Greece
-  country_code: GR
-directions: 'Enter IIT building and take the stairs.
-             Turn right twice, then left, and look for Office 1A71 at the end of the hallway.'
+  street:
+  city:
+  region:
+  postcode:
+  country:
+  country_code:
+directions:
 
 # Site header
 

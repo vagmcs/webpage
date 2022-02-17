@@ -4,7 +4,7 @@
 
 ### Updating the Academic Template
 
-1. [Install](https://github.com/wowchemy/wowchemy-hugo-themes/releases) a compatible Hugo version see release notes
+1. [Install](https://github.com/wowchemy/wowchemy-hugo-themes/releases) a compatible Hugo version.
 
 2. Run the following commands:
 
