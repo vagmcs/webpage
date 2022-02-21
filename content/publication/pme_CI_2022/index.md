@@ -20,7 +20,7 @@ authors:
 - G. Paliouras
 
 # Digital Object Identifier (DOI)
-doi: ""
+doi: "10.1111/coin.12515"
 
 # Publication type.
 # Legend:
