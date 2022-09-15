@@ -36,8 +36,8 @@ doi: "10.1111/coin.12515"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "In *Computational Intelligence*, pp. 00--00, Wiley"
-publication_short: "In *Computational Intelligence*, pp. 00--00 Wiley"
+publication: "In *Computational Intelligence*, pp. 1379--1401, Wiley"
+publication_short: "In *Computational Intelligence*, pp. 1379--1401 Wiley"
 
 # Abstract and optional shortened version.
 abstract: Computational systems and methods are often being used in biological research, including the understanding of cancer and the development of treatments. Simulations of tumor growth and its response to different drugs are of particular importance, but also challenging complexity. The main challenges are first to calibrate the simulators so as to reproduce real-world cases, and second, to search for specific values of the parameter space concerning effective drug treatments. In this work, we combine a multi-scale simulator for tumor cell growth and a Genetic Algorithm (GA) as a heuristic search method for finding good parameter configurations in reasonable time. The two modules are integrated into a single workflow that can be executed in parallel on high performance computing infrastructures. In effect, the GA is used to calibrate the simulator, and then to explore different drug delivery schemes. Among these schemes, we aim to find those that minimize tumor cell size and the probability of emergence of drug resistant cells in the future. Experimental results illustrate the effectiveness and computational efficiency of the approach.
