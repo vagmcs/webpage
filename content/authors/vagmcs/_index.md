@@ -17,11 +17,11 @@ organizations:
 bio: My research interests include artificial intelligence, machine learning and data mining.
 
 # Interests to show in the About widget
-interests:
-- Artificial Intelligence
-- Machine Learning & Data Mining
-- Logical & Relational Learning
-- Online & Adaptive Learning
+# interests:
+# - Logical and Relational Learning
+# - Neural-Symbolic Learning
+# - Graph Neural Networks
+# - Online Learning
 
 # Education to show in About widget
 education:
@@ -77,10 +77,10 @@ email: ""
 highlight_name: true
 ---
 
-I hold a Ph.D. in AI -- Machine Learning from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en). My research was conducted in the [National Center for Scientific Research “Demokritos”](http://www.demokritos.gr) and is mostly focused on the development of scalable semi-supervised, online learning of relational definitions for event recognition applications. During my Ph.D. I worked along the [CER Group](http://cer.iit.demokritos.gr) under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Dr. Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/).
+Hello! I work as a Data Scientist -- ML Engineer at Pollfish data team, researching and developing end-to-end AI/ML services. I have a keen interest in AI/ML theory, programming languages, and open-source.
+
+I hold a Ph.D. in AI from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en). My research was conducted at the [National Center for Scientific Research “Demokritos”](http://www.demokritos.gr) and it was mostly focused on the development of techniques for scalable semi-supervised, online learning of relational patterns for event recognition applications. During my Ph.D. and M.Sc. I was working in the [CER Group](http://cer.iit.demokritos.gr) in sererval international research projects under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Dr. Alexander Artikis](http://users.iit.demokritos.gr/~a.artikis/).
 
 I hold a Diploma and an M.Sc. from the school of [Electronics and Computer Engineering](https://www.ece.tuc.gr) at the [Technical University of Crete](https://www.tuc.gr). During my studies I worked along the [Kouretes](http://www.intelligence.tuc.gr/kouretes) [RoboCup](https://www.robocup.org) team where I completed my thesis "[Dynamic Multi-Robot Coordination for the RoboCup Standard Platform League](http://dias.library.tuc.gr/view/manf/16145)" under the supervision of [Michail G. Lagoudakis](http://www.intelligence.tuc.gr/~lagoudakis). In 2014 I joined the CER Group where I completed my master thesis "[Online Structure Learning for Markov Logic Networks using Background Knowledge Axiomatization](http://dias.library.tuc.gr/view/manf/64815)".
-
-I have a keen interest in AI/ML theory, programming languages, unix and open-source.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "" "newtab" >}}resumé{{< /staticref >}}. -->

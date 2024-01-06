@@ -15,7 +15,7 @@ authors:
 - G. Paliouras
 
 # Digital Object Identifier (DOI)
-doi: ""
+doi: "10.1007/s10994-023-06447-1"
 
 # Publication type.
 # Legend:
@@ -31,8 +31,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "In *Machine Learning* (accepted)"
-publication_short: "In *Machine Learning* (accepted)"
+publication: "In *Machine Learning*"
+publication_short: "In *Machine Learning*"
 
 # Abstract and optional shortened version.
 abstract: Symbolic event recognition systems detect event occurrences using first-order logic rules. Although existing online structure learning approaches ease the discovery of such rules in noisy data streams, they assume the existence of fully labelled training data. SPLICE is a recent online graph-based approach that estimates the labels of unlabelled data and makes it possible to learn such rules from semi-supervised training sequences of logical interpretations. However, SPLICE labelling depends significantly on the metric used to compute the distances of unlabelled examples to their labelled counterparts. Moreover, there is no guarantee about the quality of the labelling found in the local graphs that are built as the data stream in. In this paper, we propose a new online learning method, which includes an enhanced hybrid measure that combines an optimised structural distance, and a data-driven one. The former is guided by feature selection targeted to kNN classification, while the latter is a mass-based dissimilarity. Additionally, the enhanced SPLICE method, improves the graph construction process, by storing a synopsis of the past, in order to achieve more informed labelling on the local graphs. We evaluate our approach by learning Event Calculus theories for the tasks of human activity recognition, maritime monitoring, and fleet management. The evaluation suggests that our approach outperforms its predecessor, in terms of inferring the missing labels and improving the predictive accuracy of the underlying structure learning system.
@@ -58,9 +58,9 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
-links:
-- name: Appendix
-  url: "appendix.pdf"
+# links:
+# - name: Appendix
+#   url: "appendix.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -83,5 +83,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-Data and source code will be uploaded as soon as the paper gets published.
