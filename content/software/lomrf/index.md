@@ -1,16 +1,13 @@
 ---
 title: "LoMRF"
-summary: |2-
-    Logical Markov Random Fields. 
-    
-    This is actually a project of my colleague [Anastasios](https://anskarl.github.io), but I have contributed many features.
+summary: Logical Markov Random Fields.
 tags:
 - Scala
 - Markov Logic Networks
 date: "2014-03-25T00:00:00Z"
 
 # Order that this software appears on the page.
-weight: 4
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/anskarl/LoMRF"

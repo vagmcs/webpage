@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["7"]
 
 # Publication name and optional abbreviated version.
-publication: ""
+publication: "Doctoral Thesis"
 publication_short: ""
 
 # Abstract and optional shortened version.

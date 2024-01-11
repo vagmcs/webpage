@@ -1,6 +1,6 @@
 ---
 title: "Poetry Docker Plugin"
-summary: A [Poetry](https://python-poetry.org/) plugin for creating docker images.
+summary: A [Poetry](https://python-poetry.org/) plugin for docker images.
 tags:
 - Python
 - Poetry
@@ -8,7 +8,7 @@ tags:
 date: "2023-12-11T00:00:00"
 
 # Order that this software appears on the page.
-weight: 2
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/vagmcs/poetry-docker-plugin"

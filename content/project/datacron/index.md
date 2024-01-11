@@ -1,5 +1,5 @@
 ---
-title: "datAcron"
+title: "DATACRON"
 summary: Big Data Analytics for Time Critical Mobility Forecasting (**FP7**) [2017 - 2019].
 tags:
 - Maritime Awareness
@@ -7,7 +7,7 @@ tags:
 date: "2017-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://ai-group.ds.unipi.gr/datacron"
+external_link: "http://datacron-project.eu"
 
 image:
   caption:

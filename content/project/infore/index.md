@@ -1,7 +1,7 @@
 ---
 title: "INFORE"
 summary: |2-
-    Interactive Extreme-Scale Analytics and Forecasting (**H2020**) [2019 - 2021].
+    Interactive Extreme-Scale Analytics and Forecasting (**H2020**) [2019 - 2021]
 tags:
 - Life Sciences
 - Financial Forecasting

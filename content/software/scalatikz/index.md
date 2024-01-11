@@ -8,7 +8,7 @@ tags:
 date: "2017-08-28T00:00:00"
 
 # Order that this software appears on the page.
-weight: 2
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/vagmcs/ScalaTIKZ"

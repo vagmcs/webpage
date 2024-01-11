@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 150
+active: false
 
 title: Contact
 subtitle:
@@ -15,7 +16,3 @@ subtitle:
 design:
   columns: '2'
 ---
-
-<br><br>
-
-If you found an issue in any of my software, it's best to open an issue on GitHub.

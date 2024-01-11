@@ -1,16 +1,16 @@
 ---
-title: "PRML"
-summary: PRML [book](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning) notes, proofs and algorithms implemented in Python.
+title: "Optimus"
+summary: A [Scala](https://www.scala-lang.org) library for linear and quadratic mathematical optimization.
 tags:
-- Python
-- Machine Learning
-date: "2014-03-25T00:00:00Z"
+- Scala
+- Optimization
+date: "2015-03-31T00:00:00"
 
 # Order that this software appears on the page.
-weight: 3
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/vagmcs/PRML"
+external_link: "https://github.com/vagmcs/Optimus"
 
 image:
   caption:

@@ -1,16 +1,17 @@
 ---
-title: "Optimus"
-summary: A [Scala](https://www.scala-lang.org) library for linear and quadratic mathematical optimization.
+title: "ETS"
+summary: Early time-series classification algorithms useful for benchmarking.
+
 tags:
-- Scala
-- Optimization
-date: "2015-03-31T00:00:00"
+- Python
+- Time-Series
+date: "2023-12-31T00:00:00"
 
 # Order that this software appears on the page.
-weight: 1
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/vagmcs/Optimus"
+external_link: "https://github.com/Eukla/ETS"
 
 image:
   caption:

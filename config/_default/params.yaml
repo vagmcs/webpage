@@ -4,8 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+appearance:
+  mode: light
+  color: blue
 
-theme: nord
+# theme: nord
 day_night: false
 font: fira
 font_size: S
@@ -20,12 +23,12 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: vagmcs [at] iit [dot] demokritos [dot] gr
+email:
 phone:
 address:
   street:
   city:
-  region:
+  region: 
   postcode:
   country:
   country_code:
@@ -35,8 +38,8 @@ directions:
 
 main_menu:
   enable: true
-  align: l
-  show_logo: true
+  align: c
+  show_logo: false
   show_language: true
   show_day_night: true
   show_search: true

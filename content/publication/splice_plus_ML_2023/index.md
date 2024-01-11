@@ -74,7 +74,7 @@ url_video: ""
 #   Simply enter your project's folder or file name.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [infore]
 
 # Slides (optional).
 #   Associate this publication to Markdown slides.
