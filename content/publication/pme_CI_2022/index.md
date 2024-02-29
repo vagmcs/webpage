@@ -12,7 +12,7 @@ authors:
 - C. Akasiadis
 - M. Ponce-de-Leon
 - A. Montagud
-- vagmcs
+- short_vagmcs
 - A. Atsidakou
 - A. Alevizos
 - A. Artikis

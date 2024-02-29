@@ -9,7 +9,7 @@ publishDate: "2023-12-11T00:00:00"
 # Authors
 # If you created a profile for a user (e.g. `vagmcs`), use the folder name instead, and should be replaced by their full name and linked to their profile.
 authors:
-- vagmcs
+- short_vagmcs
 
 # Digital Object Identifier (DOI)
 doi: ""
@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["7"]
 
 # Publication name and optional abbreviated version.
-publication: "Doctoral Thesis"
+publication: "Doctoral Thesis, National and Kapodistrian University of Athens, Greece"
 publication_short: ""
 
 # Abstract and optional shortened version.

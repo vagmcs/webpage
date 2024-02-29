@@ -9,7 +9,7 @@ publishDate: "2016-10-06T00:00:00"
 # Authors
 # If you created a profile for a user (e.g. `vagmcs`), use the folder name instead, and should be replaced by their full name and linked to their profile.
 authors:
-- vagmcs
+- short_vagmcs
 - A. Artikis
 - G. Paliouras
 

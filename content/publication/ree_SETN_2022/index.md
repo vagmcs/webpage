@@ -10,7 +10,7 @@ publishDate: "2022-06-22T00:00:00"
 # If you created a profile for a user (e.g. `vagmcs`), use the folder name instead, and should be replaced by their full name and linked to their profile.
 authors:
 - V. Stavropoulos
-- vagmcs
+- short_vagmcs
 - C. Akasiadis
 - A. Artikis
 
@@ -32,7 +32,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated version.
 publication: "In *EETN Conference on Artificial Intelligence*, pp. 1--10, ACM"
-publication_short: "In *SETN*, pp. 1--10 ACM"
+publication_short: "In *SETN*, pp. 1--10, ACM"
 
 # Abstract and optional shortened version.
 abstract: Machine learning is regularly used to interpret and analyze information from large and complex datasets originating from numerous fields. In Bioinformatics, the exploration of potentially beneficial drug configurations for tumor treatments via simulations requires multiple processing units to be used in parallel and a considerable amount of time to be completed. In this paper, we apply a state-of-the-art model exploration workflow for the characterization of a new drug configuration parameter space, using a redesigned simulator. Moreover, we incorporate different clustering and optimization approaches and compare their performance in in-silico simulation trials on high-performance computing infrastructure, with respect to time and resource efficiency. The overall goal is to discover regions in this parameter space that can lead to more viable treatments in reasonable time, and thus guide the related research towards more focused and effective real-world trials.

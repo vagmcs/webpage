@@ -12,7 +12,7 @@ authors:
 - E. Alevizos 
 - A. Artikis
 - N. Katzouris
-- E. Michelioudakis
+- short_vagmcs
 - G. Paliouras
 
 # Digital Object Identifier (DOI)

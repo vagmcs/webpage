@@ -10,7 +10,7 @@ publishDate: "2018-07-01T00:00:00"
 # If you created a profile for a user (e.g. `vagmcs`), use the folder name instead, and should be replaced by their full name and linked to their profile.
 authors:
 - N. Katzouris
-- vagmcs
+- short_vagmcs
 - A. Artikis
 - G. Paliouras
 
