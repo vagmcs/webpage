@@ -7,12 +7,12 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 100
 
 # Deactivate section
 active: false
 
-title: Posts
+title: Blog
 subtitle:
 
 content:

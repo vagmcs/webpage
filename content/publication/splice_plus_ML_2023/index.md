@@ -4,7 +4,7 @@ slug: splice_plus
 draft: false
 
 # Schedule page publish date (NOT publication's date).
-date: "2023-11-01T00:00:00"
+date: "2024-01-01T00:00:00"
 publishDate: "2020-06-22T00:00:00"
 
 # Authors
@@ -31,8 +31,8 @@ doi: "10.1007/s10994-023-06447-1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "In *Machine Learning*, 113, pp. 1445--1481"
-publication_short: "In *Machine Learning*, 113, pp. 1445--1481"
+publication: "In *Machine Learning*, 113(3), pp. 1445--1481"
+publication_short: "In *Machine Learning*, 113(3), pp. 1445--1481"
 
 # Abstract and optional shortened version.
 abstract: Symbolic event recognition systems detect event occurrences using first-order logic rules. Although existing online structure learning approaches ease the discovery of such rules in noisy data streams, they assume the existence of fully labelled training data. SPLICE is a recent online graph-based approach that estimates the labels of unlabelled data and makes it possible to learn such rules from semi-supervised training sequences of logical interpretations. However, SPLICE labelling depends significantly on the metric used to compute the distances of unlabelled examples to their labelled counterparts. Moreover, there is no guarantee about the quality of the labelling found in the local graphs that are built as the data stream in. In this paper, we propose a new online learning method, which includes an enhanced hybrid measure that combines an optimised structural distance, and a data-driven one. The former is guided by feature selection targeted to kNN classification, while the latter is a mass-based dissimilarity. Additionally, the enhanced SPLICE method, improves the graph construction process, by storing a synopsis of the past, in order to achieve more informed labelling on the local graphs. We evaluate our approach by learning Event Calculus theories for the tasks of human activity recognition, maritime monitoring, and fleet management. The evaluation suggests that our approach outperforms its predecessor, in terms of inferring the missing labels and improving the predictive accuracy of the underlying structure learning system.

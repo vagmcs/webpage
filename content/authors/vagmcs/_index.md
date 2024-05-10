@@ -6,12 +6,12 @@ title: Evangelos Michelioudakis
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Senior Data Scientist, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pollfish, Inc
-  url: https://www.pollfish.com
+- name: Ringier AG
+  url: https://www.ringier.com
 
 # Short bio (displayed in user profile at the end of posts)
 bio: My research interests include artificial intelligence and machine learning.
@@ -22,6 +22,7 @@ interests:
 - Graph Neural Networks
 - Statistical Relational Learning
 - Online/Continual Learning
+- Programming Languages
 
 # Education to show in About widget
 education:
@@ -77,7 +78,7 @@ email: ""
 highlight_name: true
 ---
 
-A Data Scientist at Pollfish, researching and developing end-to-end AI/ML services. I am also deeply interested in the theoretical aspects of AI/ML, optimization techniques, mathematical logic, and programming languages.
+Senior Data Scientist at [Ringier](https://www.ringier.com), researching and developing end-to-end AI/ML services. I am also deeply interested in the theoretical aspects of AI/ML, optimization techniques, mathematical logic, and programming languages.
 
 I hold a Ph.D. in Machine Learning from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) in collaboration with the [National Center for Scientific Research “Demokritos”](http://www.demokritos.gr/en). My primary research focus was on advancing techniques for scalable semi-supervised learning of relational patterns tailored to event recognition applications. Throughout my doctoral studies, I actively contributed to several international research projects as a member of the [CER Group](http://cer.iit.demokritos.gr), working under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Dr. Alexander Artikis](https://maritime-unipi.gr/en/academic_staff/artikis-alexandros/). 
 

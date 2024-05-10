@@ -17,7 +17,7 @@ authors:
 - A. Artikis
 
 # Digital Object Identifier (DOI)
-doi: ""
+doi: "10.48786/edbt.2024.54"
 
 # Publication type.
 # Legend:
@@ -33,8 +33,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated version.
-publication: "In *Proceedings of the 27th International Conference on Extending Database Technology*, OpenProceedings"
-publication_short: "In *EDBT*, OpenProceedings"
+publication: "In *Proceedings of the 27th International Conference on Extending Database Technology*, pp. 623--635, OpenProceedings"
+publication_short: "In *EDBT*, pp. 623--635, OpenProceedings"
 
 # Abstract and optional shortened version.
 abstract: Early Time-Series Classification (ETSC) is the task of predicting the class of incoming time-series by observing as few measurements as possible. Such methods can be employed to obtain classification forecasts in many time-critical applications. However, available techniques are not equally suitable for every problem, since differentiations in the data characteristics can impact performance in terms of earliness, accuracy, F1-score, or training time. We evaluate five existing ETSC algorithms on publicly available data, as well as on two newly introduced datasets originating from the life sciences and maritime domains. Existing ETSC algorithms are also compared against a method that selectively truncates time-series and incorporates state-of-the-art algorithms for full time-series classification. Our main goal is to provide a framework for the evaluation and comparison of ETSC algorithms and to obtain intuition on how such approaches perform on real-life applications. The presented framework can serve as a benchmark for new related approaches.
