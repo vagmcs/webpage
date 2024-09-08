@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Data Scientist -- Machine Learning Engineer
+  - title: Senior Data Scientist
     company: Ringier AG
     company_url: https://www.ringier.com
     company_logo:
@@ -30,7 +30,7 @@ experience:
     date_start: '2024-05-13'
     date_end: ''
 
-  - title: Data Scientist -- Machine Learning Engineer
+  - title: Data Scientist
     company: Pollfish
     company_url: https://www.pollfish.com
     company_logo:
@@ -53,7 +53,6 @@ experience:
     location: Crete, Greece
     date_start: '2012-09-01'
     date_end: '2013-09-01'
-    description:
     # description: |2-
     #     Responsibilities include:
         

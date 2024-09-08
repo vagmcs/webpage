@@ -50,7 +50,7 @@ featured: true
 
 # Links (optional).
 url_pdf: ""
-url_code: ""
+url_code: "https://github.com/anskarl/LoMRF"
 url_dataset: ""
 url_poster: ""
 url_project: ""

@@ -19,6 +19,7 @@ bio: My research interests include artificial intelligence and machine learning.
 # Interests to show in the About widget
 interests:
 - Neural-Symbolic Learning
+- Neural Program Induction
 - Graph Neural Networks
 - Statistical Relational Learning
 - Online/Continual Learning
@@ -27,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Machine Learning
+  - course: Ph.D. in Artificial Intelligence
     institution: National and Kapodistrian University of Athens
     year: 2023
   - course: M.Sc. in Computer Engineering
@@ -57,12 +58,6 @@ social:
 # - icon: orcid
 #   icon_pack: 'fab'
 #   link: 'https://orcid.org/0000-0002-8133-7347'
-# - icon: gitlab
-#   icon_pack: 'fab'
-#   link: 'https://gitlab.com/vagmcs'
-# - icon: twitter
-#   icon_pack: 'fab'
-#   link: 'https://twitter.com/vagmcs'
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, and 
@@ -80,6 +75,6 @@ highlight_name: true
 
 Senior Data Scientist at [Ringier](https://www.ringier.com), researching and developing end-to-end AI/ML services. I am also deeply interested in the theoretical aspects of AI/ML, optimization techniques, mathematical logic, and programming languages.
 
-I hold a Ph.D. in Machine Learning from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) in collaboration with the [National Center for Scientific Research “Demokritos”](http://www.demokritos.gr/en). My primary research focus was on advancing techniques for scalable semi-supervised learning of relational patterns tailored to event recognition applications. Throughout my doctoral studies, I actively contributed to several international research projects as a member of the [CER Group](http://cer.iit.demokritos.gr), working under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Dr. Alexander Artikis](https://maritime-unipi.gr/en/academic_staff/artikis-alexandros/). 
+I hold a Ph.D. in Artificial Intelligence from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) in collaboration with the [National Center for Scientific Research “Demokritos”](http://www.demokritos.gr/en). My primary research focus was on advancing techniques for scalable semi-supervised learning of relational patterns tailored to event recognition applications. Throughout my doctoral studies, I actively contributed to several international research projects as a member of the [CER Group](http://cer.iit.demokritos.gr), working under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Prof. Alexander Artikis](https://maritime-unipi.gr/en/academic_staff/artikis-alexandros/). 
 
-I joined the CER Group in 2014 where I completed my master thesis "[Online Structure Learning for Markov Logic Networks using Background Knowledge Axiomatization](http://dias.library.tuc.gr/view/manf/64815)", focusing on the development of structure learning methods for Markov Logic Networks. Prior to my master studies, I received a Diploma from the School of [Electronics and Computer Engineering](https://www.ece.tuc.gr) at the [Technical University of Crete](https://www.tuc.gr), where I have been working in the [Kouretes](http://www.intelligence.tuc.gr/kouretes/web) [RoboCup](https://www.robocup.org) team, under the mentorship of [Prof. Michail G. Lagoudakis](http://www.intelligence.tuc.gr/~lagoudakis).
+I joined the CER Group in 2014 where I completed my master thesis "[Online Structure Learning for Markov Logic Networks using Background Knowledge Axiomatization](http://dias.library.tuc.gr/view/manf/64815)", focusing on the development of structure learning methods for Markov Logic Networks. Prior to my master studies, I received a Diploma from the School of [Electrical and Computer Engineering](https://www.ece.tuc.gr/en/school) at the [Technical University of Crete](https://www.tuc.gr/en), where I had been working in the [Kouretes](http://www.intelligence.tuc.gr/kouretes/web) [RoboCup](https://www.robocup.org) team, under the mentorship of [Prof. Michail G. Lagoudakis](https://www.ece.tuc.gr/en/school/faculty-and-staff/faculty?tx_tuclabspersonnel_list%5Baction%5D=person&tx_tuclabspersonnel_list%5Bcontroller%5D=List&tx_tuclabspersonnel_list%5Bperson%5D=313&cHash=25d8f2b11cad1889624a590cbb53527e).
