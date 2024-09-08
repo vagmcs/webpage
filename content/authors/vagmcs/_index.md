@@ -55,6 +55,9 @@ social:
 - icon: github
   icon_pack: 'fab'
   link: 'https://github.com/vagmcs'
+- icon: osi
+  icon_pack: 'fab'
+  link: 'https://paperswithcode.com/search?q=author%3AEvangelos+Michelioudakis'
 # - icon: orcid
 #   icon_pack: 'fab'
 #   link: 'https://orcid.org/0000-0002-8133-7347'
