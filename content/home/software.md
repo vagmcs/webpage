@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 100
+active: false
 
 title: Software
 subtitle: ''

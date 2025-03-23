@@ -6,29 +6,29 @@ title: Evangelos Michelioudakis
 superuser: true
 
 # Role/position/tagline
-role: Senior Data Scientist, PhD
+role: Machine Learning Researcher, PhD
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Ringier AG
-  url: https://www.ringier.com
+# organizations:
+# - name: Ringier AG
+#   url: https://www.ringier.com
 
 # Short bio (displayed in user profile at the end of posts)
 bio: My research interests include artificial intelligence and machine learning.
 
 # Interests to show in the About widget
 interests:
-- Neural-Symbolic Learning
+- Neuro-Symbolic Learning
 - Neural Program Induction
+- Infercence-Time Adaptation
 - Graph Neural Networks
 - Statistical Relational Learning
-- Online/Continual Learning
-- Programming Languages
+# - Programming Languages
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Artificial Intelligence
+  - course: Ph.D. in Machine Learning
     institution: National and Kapodistrian University of Athens
     year: 2023
   - course: M.Sc. in Computer Engineering
@@ -55,9 +55,9 @@ social:
 - icon: github
   icon_pack: 'fab'
   link: 'https://github.com/vagmcs'
-- icon: osi
-  icon_pack: 'fab'
-  link: 'https://paperswithcode.com/search?q=author%3AEvangelos+Michelioudakis'
+# - icon: osi
+#   icon_pack: 'fab'
+#   link: 'https://paperswithcode.com/search?q=author%3AEvangelos+Michelioudakis'
 # - icon: orcid
 #   icon_pack: 'fab'
 #   link: 'https://orcid.org/0000-0002-8133-7347'
@@ -76,8 +76,12 @@ email: ""
 highlight_name: true
 ---
 
-Senior Data Scientist at [Ringier](https://www.ringier.com), researching and developing end-to-end AI/ML services. I am also deeply interested in the theoretical aspects of AI/ML, optimization techniques, mathematical logic, and programming languages.
+<!-- My primary research focus was on advancing techniques for scalable semi-supervised learning of relational patterns tailored to event recognition applications. Throughout my doctoral studies, I actively contributed to several international research projects as a member of the [CER Group](http://cer.iit.demokritos.gr), working under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Prof. Alexander Artikis](https://maritime-unipi.gr/en/academic_staff/artikis-alexandros/). 
 
-I hold a Ph.D. in Artificial Intelligence from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) in collaboration with the [National Center for Scientific Research “Demokritos”](http://www.demokritos.gr/en). My primary research focus was on advancing techniques for scalable semi-supervised learning of relational patterns tailored to event recognition applications. Throughout my doctoral studies, I actively contributed to several international research projects as a member of the [CER Group](http://cer.iit.demokritos.gr), working under the guidance of [Dr. Georgios Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Prof. Alexander Artikis](https://maritime-unipi.gr/en/academic_staff/artikis-alexandros/). 
+I joined the CER Group in 2014 where I completed my master thesis "[Online Structure Learning for Markov Logic Networks using Background Knowledge Axiomatization](http://dias.library.tuc.gr/view/manf/64815)", focusing on the development of structure learning methods for Markov Logic Networks. Prior to my master studies, I received a Diploma from the School of [Electrical and Computer Engineering](https://www.ece.tuc.gr/en/school) at the [Technical University of Crete](https://www.tuc.gr/en), where I had been working in the [Kouretes](http://www.intelligence.tuc.gr/kouretes/web) [RoboCup](https://www.robocup.org) team, under the mentorship of [Prof. Michail G. Lagoudakis](https://www.ece.tuc.gr/en/school/faculty-and-staff/faculty?tx_tuclabspersonnel_list%5Baction%5D=person&tx_tuclabspersonnel_list%5Bcontroller%5D=List&tx_tuclabspersonnel_list%5Bperson%5D=313&cHash=25d8f2b11cad1889624a590cbb53527e). -->
 
-I joined the CER Group in 2014 where I completed my master thesis "[Online Structure Learning for Markov Logic Networks using Background Knowledge Axiomatization](http://dias.library.tuc.gr/view/manf/64815)", focusing on the development of structure learning methods for Markov Logic Networks. Prior to my master studies, I received a Diploma from the School of [Electrical and Computer Engineering](https://www.ece.tuc.gr/en/school) at the [Technical University of Crete](https://www.tuc.gr/en), where I had been working in the [Kouretes](http://www.intelligence.tuc.gr/kouretes/web) [RoboCup](https://www.robocup.org) team, under the mentorship of [Prof. Michail G. Lagoudakis](https://www.ece.tuc.gr/en/school/faculty-and-staff/faculty?tx_tuclabspersonnel_list%5Baction%5D=person&tx_tuclabspersonnel_list%5Bcontroller%5D=List&tx_tuclabspersonnel_list%5Bperson%5D=313&cHash=25d8f2b11cad1889624a590cbb53527e).
+Hi! I am a machine learning reasearcher deeply interested in AI/ML theory, ML for healthcare, optimization techniques, mathematical logic, and programming languages.
+
+I hold a Ph.D. in Machine Learning, as well as an M.Sc. and a Diploma in Electrical and Computer Engineering. I earned my Ph.D. from the [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en), working in the group of [Dr. George Paliouras](http://users.iit.demokritos.gr/~paliourg/) and [Prof. Dr. Alexander Artikis](https://maritime-unipi.gr/en/academic_staff/artikis-alexandros/) in the [National Center for Scientific Research “Demokritos”](https://www.demokritos.gr/institute/institute-of-informatics-telecommunications) (NCSRD). My doctoral research was focused on the development of semi-supervised multi-relational learning methods for event recognition applications. I joined NCSRD in 2014, while working on my master thesis, where I actively participated in several international research projects, and contributed significantly to the development of structure learning methods for Markov Logic Networks.
+
+My current research interests center on developing multi-modal AI models that are capable of reasoning and generalizing into out-of-distribution inputs. I firmly believe that progress in these areas is crucial, particularly for mission-critical domains such as medical and biomedical applications.

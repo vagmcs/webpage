@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 # Deactivate section
-active: false
+active: false 
 
 title: Blog
 subtitle:
